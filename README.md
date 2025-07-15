@@ -1,0 +1,3 @@
+Built a machine learning model to predict passenger survival on the Titanic using the classic Kaggle dataset. The project involved extensive data preprocessing, feature engineering, and model training using Python. Key steps included handling missing data, encoding categorical features, and scaling numerical variables.
+
+Multiple models were evaluated, including Logistic Regression, Random Forest, and K-Nearest Neighbors, with hyperparameter tuning applied for improved accuracy. The model performance was assessed using metrics such as accuracy, precision, and confusion matrix, resulting in a reliable classifier for survival prediction.
